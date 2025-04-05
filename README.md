@@ -12,7 +12,9 @@ Prever, a partir de informações genéticas, se um paciente possui ou não cân
 - Jupyter Notebook
 - Pandas
 - Scikit-learn
-- Matplotlib, Seaborn
+- Train_test_split
+- DecisionTreeClassifier
+- Accuracy_score
 
 ## 📁 Estrutura do Projeto
 
