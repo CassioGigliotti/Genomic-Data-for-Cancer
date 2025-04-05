@@ -45,6 +45,10 @@ O projeto gerou um modelo capaz de classificar, a partir de informações genét
 
 🔗 [Clique aqui para abrir o notebook no GitHub](Genomic%20Data%20for%20Cancer.ipynb)  
 
+## 📘 Link do Kaggle
+
+🔗 [Clique aqui para abrir o Kaggle](https://www.kaggle.com/datasets/brsahan/genomic-data-for-cancer)
+
 ## 🙋‍♂️ Autor  
 
 Cássio Gigliotti  
